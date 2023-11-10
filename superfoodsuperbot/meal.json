@@ -1,0 +1,15 @@
+{ 
+    "juice": {
+        "orange": "recipe",
+        "berry": "recipe",
+        "banana": "recipe"
+        },
+    "snacks": {
+        "nuts": "recipe",
+        "fruit": "recipe"
+        },
+    "prep": {
+        "moroccan_chicken": "recipe",
+        "grilled_chicken_veggies": "recipe"
+        }
+}
